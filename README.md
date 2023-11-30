@@ -15,7 +15,7 @@ Para usar este projeto, você precisará:
 - Conhecimento básico de python e redes neurais 🔬
   
 ## Status do Projeto 🌱
-O projeto está em desenvolvimento contínuo.
+O projeto foi concluído ✅
 
 ## Contribuições 🤝
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões de melhorias, fique à vontade para abrir issues neste repositório. Se você deseja contribuir com código, crie uma solicitação pull e eu ficarei feliz em analisar.
